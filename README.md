@@ -114,3 +114,7 @@ By default, the `.zshrc` file will source any file within `.dotfiles/zsh` that h
 ## Vim Plugins
 
 Vim plugins are managed with [vim-plug](https://github.com/junegunn/vim-plug). To install, run `vim +PlugInstall`.
+=======
+# dotfiles_mac
+laptop setting for mac
+d
