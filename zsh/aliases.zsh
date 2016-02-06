@@ -16,6 +16,14 @@ alias ...='cd ../..'
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
+# openshift
+alias sme='cd /Volumes/jetDrive/Dropbox/IT/Openshift/3/SME_LIST'
+alias mgit='cd /Users/jhouse/dev/git/mine'
+alias ogit='cd /Users/jhouse/dev/git/others'
+alias aoi='cd /Users/jhouse/dev/git/mine/ansible-ose3-install'
+alias rht='cd /Users/jhouse/dev/git/mine/rhep-tools'
+
+
 alias l="ls -lah ${colorflag}"
 alias la="ls -AF ${colorflag}"
 alias ll="ls -lFh ${colorflag}"

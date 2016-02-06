@@ -8,8 +8,6 @@ call plug#begin('~/.vim/plugged')
 "
 " colorschemes
 Plug 'chriskempson/base16-vim'
-
-
 Plug 'kien/ctrlp.vim'
 Plug 'scrooloose/nerdtree', { 'on': ['NERDTreeToggle', 'NERDTreeFind'] } | Plug 'Xuyuanp/nerdtree-git-plugin' | Plug 'ryanoasis/vim-devicons'
 Plug 'mileszs/ack.vim'
